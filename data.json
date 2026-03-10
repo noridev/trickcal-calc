@@ -4,7 +4,7 @@
     { "id": "f_elif", "name": "엘리프(무료)", "val": 1, "icon": "Trickcal-Icons/currency/재화_엘리프.webp", "count": "" },
     { "id": "kcandy", "name": "왕사탕", "val": 0.5, "icon": "Trickcal-Icons/currency/재화_왕사탕.webp", "count": "" },
     { "id": "scandy", "name": "별사탕", "val": 2, "icon": "Trickcal-Icons/currency/재화_별사탕.webp", "count": "" },
-    { "id": "gold", "name": "골드 (1k)", "val": 4, "icon": "Trickcal-Icons/currency/재화_골드.webp", "count": "" },
+    { "id": "gold", "name": "골드 (1k)", "val": 0.4, "icon": "Trickcal-Icons/currency/재화_골드.webp", "count": "" },
     { "id": "manual", "name": "장비의정석", "val": 0.125, "icon": "Trickcal-Icons/currency/재화_장비의 정석.webp", "count": "" },
     { "id": "thumbs", "name": "참! 잘했어요", "val": 20, "icon": "Trickcal-Icons/currency/재화_참! 잘했어요.webp", "count": "" },
     { "id": "nuru", "name": "누루링 수렵 면허권", "val": 40, "icon": "Trickcal-Icons/currency/재화_누루링 수렵 면허권.webp", "count": "" },
