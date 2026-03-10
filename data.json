@@ -1,0 +1,710 @@
+{
+  "items": [
+    { "id": "p_elif", "name": "유료 엘리프", "val": 2, "icon": "images/엘리프.png", "count": "" },
+    { "id": "f_elif", "name": "무료 엘리프", "val": 1, "icon": "images/엘리프.png", "count": "" },
+    { "id": "thumbs", "name": "따봉", "val": 20, "icon": "images/따봉.png", "count": "" },
+    { "id": "kcandy", "name": "왕사탕", "val": 0.5, "icon": "images/왕사탕.png", "count": "" },
+    { "id": "scandy", "name": "별사탕", "val": 2, "icon": "images/별사탕.png", "count": "" },
+    { "id": "crayon_low", "name": "하급 크레파스", "val": 0, "icon": "images/일반크레파스.png", "count": "" },
+    { "id": "crayon_mid", "name": "중급 크레파스", "val": 0, "icon": "images/파란크레파스.png", "count": "" },
+    { "id": "crayon_high", "name": "상급 크레파스", "val": 60, "icon": "images/보라크레파스.png", "count": "" },
+    { "id": "crayon_highest", "name": "최상급 크레파스", "val": 668, "icon": "images/황금크레파스.png", "count": "" },
+    { "id": "gold", "name": "골드 (1만 단위)", "val": 4, "icon": "images/골드.png", "count": "" },
+    { "id": "cert", "name": "교단 증명서", "val": 8.5, "icon": "images/교단증명서.png", "count": "" },
+    { "id": "spec_ticket", "name": "초고급 모집권", "val": 130, "icon": "images/사도랜덤(10).png", "count": "" },
+    { "id": "adv_ticket", "name": "초특별 모집권", "val": 260, "icon": "images/초고급모집권(20).png", "count": "" },
+    { "id": "select_ticket", "name": "일반 사도 선택권", "val": 2550, "icon": "images/일반선택권.png", "count": "" },
+    { "id": "attr_순수", "name": "순수 모집권", "val": 260, "icon": "images/순수모집권.webp", "count": "" },
+    { "id": "attr_광기", "name": "광기 모집권", "val": 260, "icon": "images/광기모집권.webp", "count": "" },
+    { "id": "attr_냉정", "name": "냉정 모집권", "val": 260, "icon": "images/냉정모집권.webp", "count": "" },
+    { "id": "attr_우울", "name": "우울 모집권", "val": 260, "icon": "images/우울모집권.webp", "count": "" },
+    { "id": "attr_활발", "name": "활발 모집권", "val": 260, "icon": "images/활발모집권.webp", "count": "" },
+    { "id": "pos_탱커", "name": "탱커 모집권", "val": 260, "icon": "images/탱커모집권.webp", "count": "" },
+    { "id": "pos_딜러", "name": "딜러 모집권", "val": 260, "icon": "images/딜러모집권.webp", "count": "" },
+    { "id": "pos_서포터", "name": "서포터 모집권", "val": 260, "icon": "images/서포터모집권.webp", "count": "" },
+    { "id": "elch_ticket", "name": "엘다인 선택권", "val": 6800, "icon": "images/선택엘다인.png", "count": "" },
+    { "id": "elch_yeon", "name": "엘다인 연성권", "val": 680, "icon": "images/엘다인 연성권.png", "count": "" },
+    { "id": "light_box", "name": "무작위 빛 상자", "val": 0, "icon": "images/빛상자.png", "count": "" },
+    { "id": "food_blue", "name": "요리(파랑)", "val": 0, "icon": "images/파란랜덤밥.png", "count": "" },
+    { "id": "food_purple", "name": "요리(보라)", "val": 0, "icon": "images/보라랜덤밥.png", "count": "" },
+    { "id": "t_apostle", "name": "사도뽑기권", "val": 60, "icon": "images/사도뽑기.png", "count": "" },
+    { "id": "t_card", "name": "카드뽑기권", "val": 40, "icon": "images/카드뽑기.png", "count": "" },
+    { "id": "nuru", "name": "누루링", "val": 40, "icon": "images/누루링.png", "count": "" },
+    { "id": "manual", "name": "장비의 정석", "val": 0.125, "icon": "images/장비의 정석.png", "count": "" },
+    { "id": "r_low", "name": "하급 제련석", "val": 3, "icon": "images/하급제련석.png", "count": "" },
+    { "id": "r_mid", "name": "중급 제련석", "val": 6, "icon": "images/중급제련석.png", "count": "" },
+    { "id": "r_high", "name": "상급 제련석", "val": 13, "icon": "images/상급제련석.png", "count": "" },
+    { "id": "m_low", "name": "하급 마시멜로", "val": 0, "icon": "images/하급 마시맬로.png", "count": "" },
+    { "id": "m_mid", "name": "중급 마시멜로", "val": 0, "icon": "images/중급마시맬로.png", "count": "" },
+    { "id": "m_high", "name": "상급 마시멜로", "val": 0, "icon": "images/상급마시맬로.png", "count": "" },
+    { "id": "deco_box", "name": "방 꾸미기 상자", "val": 0, "icon": "images/꾸미기상자.png", "count": "" },
+    { "id": "growth_box", "name": "교단 성장 상자", "val": 0, "icon": "images/교단성장재료상자.png", "count": "" },
+    { "id": "l_spell_box", "name": "전설 스펠 선택 상자", "val": 6000, "icon": "images/전설스펠상자.webp", "count": "" },
+    { "id": "l_arti_box", "name": "전설 아티팩트 선택 상자", "val": 6000, "icon": "images/전설아티팩트상자.webp", "count": "" }
+  ],
+
+  "specialPackages": [
+    {
+      "id": "은총 패키지",
+      "name": "은총 패키지",
+      "price": 99000,
+      "contents": {
+        "p_elif": 6000,
+        "crayon_highest": 10,
+        "scandy": 500,
+        "kcandy": 500
+      }
+    },
+    {
+      "id": "[잉클] 스텝업 패키지 3",
+      "name": "[잉클] 스텝업 패키지 3",
+      "price": 9900,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 100,
+        "f_elif": 200,
+        "t_apostle": 15,
+        "adv_ticket": 1,
+        "crayon_highest": 1,
+        "scandy": 100
+      }
+    },
+    {
+      "id": "[잉클] 스텝업 패키지 6",
+      "name": "[잉클] 스텝업 패키지 6",
+      "price": 29500,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 300,
+        "f_elif": 600,
+        "t_apostle": 45,
+        "spec_ticket": 1,
+        "crayon_highest": 3,
+        "scandy": 300
+      }
+    },
+    {
+      "id": "[잉클] 스텝업 패키지 9",
+      "name": "[잉클] 스텝업 패키지 9",
+      "price": 49500,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 500,
+        "f_elif": 1000,
+        "t_apostle": 75,
+        "select_ticket": 1,
+        "crayon_highest": 5,
+        "scandy": 500
+      }
+    },
+    {
+      "id": "[잉클] 스텝업 패키지 12",
+      "name": "[잉클] 스텝업 패키지 12",
+      "price": 99000,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 1000,
+        "f_elif": 2000,
+        "t_apostle": 150,
+        "elch_yeon": 1,
+        "crayon_highest": 10,
+        "scandy": 1000
+      }
+    },
+    {
+      "id": "다야 강림 패키지",
+      "name": "다야 강림 패키지",
+      "price": 99000,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "t_apostle": 100,
+        "attr_광기": 3
+      }
+    },
+    {
+      "id": "그대의 포옹 로비 패키지",
+      "name": "그대의 포옹 로비 패키지",
+      "price": 29500,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 900,
+        "t_apostle": 10,
+        "t_card": 10,
+        "nuru": 10,
+        "scandy": 300
+      }
+    },
+    {
+      "id": "언제나 든든한 내 편 로비 패키지",
+      "name": "언제나 든든한 내 편 로비 패키지",
+      "price": 29500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "t_apostle": 10,
+        "nuru": 10,
+        "scandy": 300
+      }
+    },
+    {
+      "id": "정령산의 수문장 나이아 패키지",
+      "name": "정령산의 수문장 나이아 패키지",
+      "price": 29500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "cert": 300,
+        "kcandy": 500,
+        "attr_순수": 1
+      }
+    },
+    {
+      "id": "힘의 마녀 벨벳 패키지",
+      "name": "힘의 마녀 벨벳 패키지",
+      "price": 29500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "cert": 300,
+        "kcandy": 500,
+        "attr_냉정": 1
+      }
+    },
+    {
+      "id": "자수정의 용족 시스트 패키지",
+      "name": "자수정의 용족 시스트 패키지",
+      "price": 29500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "cert": 300,
+        "kcandy": 500,
+        "attr_광기": 1
+      }
+    },
+    {
+      "id": "사료스탕스 책략관 루포 패키지",
+      "name": "사료스탕스 책략관 루포 패키지",
+      "price": 29500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "cert": 300,
+        "kcandy": 500,
+        "attr_활발": 1
+      }
+    },
+    {
+      "id": "푸른 장미의 기적 블랑셰 패키지",
+      "name": "푸른 장미의 기적 블랑셰 패키지",
+      "price": 29500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "cert": 300,
+        "kcandy": 500,
+        "attr_우울": 1
+      }
+    }
+  ],
+
+  "subscriptionPackages": [
+    {
+      "id": "데일리 엘리프",
+      "name": "데일리 엘리프",
+      "price": 9900,
+      "contents": {
+        "p_elif": 1500,
+        "f_elif": 2000,
+        "manual": 2139,
+        "r_low": 124
+      }
+    },
+    {
+      "id": "데일리 별사탕",
+      "name": "데일리 별사탕",
+      "price": 9900,
+      "contents": {
+        "scandy": 4460
+      }
+    },
+    {
+      "id": "데일리 왕사탕",
+      "name": "데일리 왕사탕",
+      "price": 5500,
+      "contents": {
+        "kcandy": 4850,
+        "nuru": 31
+      }
+    }
+  ],
+
+  "weeklyPackages": [
+    {
+      "id": "다야 퓨어샤인 패키지",
+      "name": "다야 퓨어샤인 패키지",
+      "price": 9900,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 300,
+        "kcandy": 300,
+        "scandy": 300,
+        "thumbs": 20
+      }
+    },
+    {
+      "id": "다야의 관심 패키지",
+      "name": "다야의 관심 패키지",
+      "price": 3300,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 100,
+        "f_elif": 100,
+        "kcandy": 100,
+        "scandy": 100,
+        "food_purple": 100
+      }
+    },
+    {
+      "id": "다야의 도움 패키지",
+      "name": "다야의 도움 패키지",
+      "price": 3300,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 100,
+        "f_elif": 100,
+        "scandy": 100,
+        "light_box": 300
+      }
+    },
+    {
+      "id": "다야의 변신 패키지",
+      "name": "다야의 변신 패키지",
+      "price": 19800,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 600,
+        "t_apostle": 20,
+        "thumbs": 40
+      }
+    },
+    {
+      "id": "다야의 빌런 처치 패키지",
+      "name": "다야의 빌런 처치 패키지",
+      "price": 3300,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 100,
+        "f_elif": 100,
+        "kcandy": 200,
+        "manual": 500
+      }
+    },
+    {
+      "id": "다야의 서포트 패키지",
+      "name": "다야의 서포트 패키지",
+      "price": 9900,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 300,
+        "crayon_highest": 1,
+        "t_apostle": 5,
+        "t_card": 5,
+        "nuru": 5
+      }
+    },
+    {
+      "id": "다야의 손편지 패키지",
+      "name": "다야의 손편지 패키지",
+      "price": 29500,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "kcandy": 900,
+        "thumbs": 60,
+        "gold": 150
+      }
+    },
+    {
+      "id": "다야의 완벽 패키지",
+      "name": "다야의 완벽 패키지",
+      "price": 49500,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "t_apostle": 50,
+        "kcandy": 500,
+        "scandy": 500
+      }
+    },
+    {
+      "id": "다야의 크레파스 패키지",
+      "name": "다야의 크레파스 패키지",
+      "price": 49500,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 1500,
+        "crayon_high": 20,
+        "crayon_highest": 6
+      }
+    },
+    {
+      "id": "마법 소녀 다야 패키지",
+      "name": "마법 소녀 다야 패키지",
+      "price": 6600,
+      "releasedApostle": "다야(퓨어샤인)",
+      "contents": {
+        "p_elif": 200,
+        "f_elif": 200,
+        "t_apostle": 5,
+        "manual": 1000
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 각오 패키지",
+      "name": "아멜리아(R41)의 각오 패키지",
+      "price": 49500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 1500,
+        "crayon_highest": 6,
+        "adv_ticket": 1
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 결심 패키지",
+      "name": "아멜리아(R41)의 결심 패키지",
+      "price": 49500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 1500,
+        "f_elif": 1500,
+        "kcandy": 1000,
+        "scandy": 500,
+        "cert": 400
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 기쁨 패키지",
+      "name": "아멜리아(R41)의 기쁨 패키지",
+      "price": 3300,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 100,
+        "kcandy": 200,
+        "food_blue": 5,
+        "nuru": 3,
+        "manual": 800
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 선포 패키지",
+      "name": "아멜리아(R41)의 선포 패키지",
+      "price": 3300,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 100,
+        "scandy": 100,
+        "light_box": 200,
+        "food_blue": 5,
+        "nuru": 3
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 완벽 패키지",
+      "name": "아멜리아(R41)의 완벽 패키지",
+      "price": 99000,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "attr_우울": 3,
+        "t_apostle": 100
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 카리스마 패키지",
+      "name": "아멜리아(R41)의 카리스마 패키지",
+      "price": 19800,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 600,
+        "thumbs": 40,
+        "kcandy": 600,
+        "scandy": 600,
+        "gold": 120
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 희열 패키지",
+      "name": "아멜리아(R41)의 희열 패키지",
+      "price": 9900,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 300,
+        "t_apostle": 10,
+        "t_card": 10
+      }
+    },
+    {
+      "id": "영원한 꿈 이드 패키지",
+      "name": "영원한 꿈 이드 패키지",
+      "price": 99000,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 3000,
+        "cert": 800,
+        "attr_냉정": 3
+      }
+    },
+    {
+      "id": "잉크의 정령 잉클 패키지",
+      "name": "잉크의 정령 잉클 패키지",
+      "price": 99000,
+      "releasedApostle": "잉클",
+      "contents": {
+        "t_apostle": 100,
+        "crayon_highest": 10
+      }
+    },
+    {
+      "id": "잉클의 기품 패키지",
+      "name": "잉클의 기품 패키지",
+      "price": 9900,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 300,
+        "t_apostle": 10,
+        "t_card": 10
+      }
+    },
+    {
+      "id": "잉클의 독서 패키지",
+      "name": "잉클의 독서 패키지",
+      "price": 49500,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 1500,
+        "f_elif": 1500,
+        "thumbs": 100,
+        "cert": 400
+      }
+    },
+    {
+      "id": "잉클의 명상 패키지",
+      "name": "잉클의 명상 패키지",
+      "price": 29500,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 900,
+        "f_elif": 900,
+        "crayon_highest": 4
+      }
+    },
+    {
+      "id": "잉클의 신중함 패키지",
+      "name": "잉클의 신중함 패키지",
+      "price": 19800,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 600,
+        "t_apostle": 20,
+        "thumbs": 40
+      }
+    },
+    {
+      "id": "잉클의 인내 패키지",
+      "name": "잉클의 인내 패키지",
+      "price": 3300,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 100,
+        "thumbs": 10,
+        "scandy": 100,
+        "food_blue": 10,
+        "food_purple": 3
+      }
+    },
+    {
+      "id": "잉클의 절제 패키지",
+      "name": "잉클의 절제 패키지",
+      "price": 3300,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 100,
+        "kcandy": 200,
+        "thumbs": 10,
+        "deco_box": 10
+      }
+    },
+    {
+      "id": "잉클의 조화 패키지",
+      "name": "잉클의 조화 패키지",
+      "price": 3300,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 100,
+        "kcandy": 100,
+        "scandy": 100,
+        "light_box": 300,
+        "manual": 500
+      }
+    },
+    {
+      "id": "잉클의 추억 패키지",
+      "name": "잉클의 추억 패키지",
+      "price": 49500,
+      "releasedApostle": "잉클",
+      "contents": {
+        "gold": 300,
+        "t_apostle": 50
+      }
+    },
+    {
+      "id": "잉클의 헌신 패키지",
+      "name": "잉클의 헌신 패키지",
+      "price": 6600,
+      "releasedApostle": "잉클",
+      "contents": {
+        "p_elif": 200,
+        "f_elif": 200,
+        "t_apostle": 5,
+        "nuru": 5
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 마음가짐 패키지",
+      "name": "아멜리아(R41)의 마음가짐 패키지",
+      "price": 3300,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 100,
+        "f_elif": 100,
+        "kcandy": 100,
+        "scandy": 100,
+        "food_blue": 20
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 깨달음 패키지",
+      "name": "아멜리아(R41)의 깨달음 패키지",
+      "price": 6600,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 200,
+        "f_elif": 200,
+        "t_apostle": 5,
+        "nuru": 5
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 성찰 패키지",
+      "name": "아멜리아(R41)의 성찰 패키지",
+      "price": 9900,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 300,
+        "f_elif": 300,
+        "kcandy": 300,
+        "thumbs": 20,
+        "manual": 2000
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 기억 패키지",
+      "name": "아멜리아(R41)의 기억 패키지",
+      "price": 49500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 1500,
+        "f_elif": 1500,
+        "select_ticket": 1,
+        "thumbs": 100
+      }
+    },
+    {
+      "id": "아멜리아(R41)의 전설 카드 선택권 패키지",
+      "name": "아멜리아(R41)의 전설 카드 선택권 패키지",
+      "price": 49500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 1500,
+        "t_card": 50,
+        "l_spell_box": 1,
+        "l_arti_box": 1
+      }
+    }
+  ],
+
+  "monthlyPackages": [
+    {
+      "id": "월간 크레파스 패키지",
+      "name": "월간 크레파스 패키지",
+      "price": 29500,
+      "contents": {
+        "p_elif": 900,
+        "gold": 200,
+        "crayon_highest": 4
+      }
+    },
+    {
+      "id": "월간 교단 증명서 패키지",
+      "name": "월간 교단 증명서 패키지",
+      "price": 49500,
+      "contents": {
+        "p_elif": 1500,
+        "f_elif": 1500,
+        "cert": 500
+      }
+    }
+  ],
+
+  "passPackages": [
+    {
+      "id": "트릭컬 패스 (기본)",
+      "name": "트릭컬 패스 (기본)",
+      "price": 11000,
+      "contents": {
+        "gold": 66,
+        "p_elif": 700,
+        "t_card": 6,
+        "t_apostle": 6,
+        "kcandy": 300,
+        "scandy": 200,
+        "m_high": 10,
+        "m_mid": 40,
+        "m_low": 60,
+        "r_high": 3,
+        "r_mid": 6,
+        "r_low": 9,
+        "crayon_high": 3,
+        "crayon_highest": 2
+      }
+    },
+    {
+      "id": "트릭컬 패스 (업그레이드)",
+      "name": "트릭컬 패스 (업그레이드)",
+      "price": 13000,
+      "contents": {
+        "p_elif": 800,
+        "thumbs": 30
+      }
+    },
+    {
+      "id": "아멜리아(R41) 테마 극장 패스",
+      "name": "아멜리아(R41) 테마 극장 패스",
+      "price": 5500,
+      "releasedApostle": "아멜리아(R41)",
+      "contents": {
+        "p_elif": 170,
+        "thumbs": 50,
+        "kcandy": 800,
+        "scandy": 420
+      }
+    }
+  ]
+}
