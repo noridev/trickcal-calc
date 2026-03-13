@@ -110,6 +110,7 @@
       "name": "델리아의 탐험 일지",
       "price": 5500,
       "releasedApostle": "델리아",
+      "saleEndDate": "2026-03-26T09:00",
       "contents": {
         "p_elif": 170,
         "kcandy": 200,
@@ -159,6 +160,7 @@
       "id": "화이트데이 왕사탕 패키지",
       "name": "화이트데이 왕사탕 패키지",
       "price": 3300,
+      "saleEndDate": "2026-03-26T10:59",
       "contents": {
         "p_elif": 100,
         "kcandy": 200,
@@ -171,6 +173,7 @@
       "id": "화이트데이 별사탕 패키지",
       "name": "화이트데이 별사탕 패키지",
       "price": 3300,
+      "saleEndDate": "2026-03-26T10:59",
       "contents": {
         "p_elif": 100,
         "scandy": 100,
@@ -183,6 +186,7 @@
       "id": "달콤한 화이트데이 패키지",
       "name": "달콤한 화이트데이 패키지",
       "price": 9900,
+      "saleEndDate": "2026-03-26T10:59",
       "contents": {
         "p_elif": 300,
         "kcandy": 300,
@@ -195,6 +199,7 @@
       "id": "화이트데이 크레파스 패키지",
       "name": "화이트데이 크레파스 패키지",
       "price": 29500,
+      "saleEndDate": "2026-03-26T10:59",
       "contents": {
         "p_elif": 900,
         "f_elif": 900,
@@ -206,6 +211,7 @@
       "id": "화이트데이 특별 패키지",
       "name": "화이트데이 특별 패키지",
       "price": 49500,
+      "saleEndDate": "2026-03-26T10:59",
       "contents": {
         "p_elif": 1500,
         "t_apostle": 50,
@@ -218,6 +224,7 @@
       "id": "델리아의 탐험 패키지",
       "name": "델리아의 탐험 패키지",
       "price": 9900,
+      "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
         "p_elif": 300,
@@ -229,6 +236,7 @@
       "id": "델리아의 장비 패키지",
       "name": "델리아의 장비 패키지",
       "price": 49500,
+      "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
         "p_elif": 1500,
@@ -248,6 +256,7 @@
       "id": "모험가 델리아 패키지",
       "name": "모험가 델리아 패키지",
       "price": 49500,
+      "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
         "p_elif": 1500,
@@ -260,6 +269,7 @@
       "id": "펭귄 탐험대 델리아 패키지",
       "name": "펭귄 탐험대 델리아 패키지",
       "price": 99000,
+      "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
         "t_apostle": 100,
