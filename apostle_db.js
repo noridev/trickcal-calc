@@ -45,7 +45,7 @@ const apostleDB = [
     { id: "스노키", name: "스노키", role: "탱커", type: "우울", isEldain: false },
     { id: "스피키(메이드)", name: "스피키(메이드)", role: "딜러", type: "활발", isEldain: false },
     { id: "시스트", name: "시스트", role: "딜러", type: "광기", isEldain: false },
-    { id: "시온더다크불릿", name: "시온더다크불릿", role: "딜러", type: "우울", isEldain: true },
+    { id: "시온 더 다크불릿", name: "시온 더 다크불릿", role: "딜러", type: "우울", isEldain: true },
     { id: "시저", name: "시저", role: "서포터", type: "냉정", isEldain: false },
     { id: "실라", name: "실라", role: "딜러", type: "냉정", isEldain: false },
     { id: "아네트", name: "아네트", role: "서포터", type: "광기", isEldain: false },
