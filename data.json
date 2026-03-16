@@ -74,6 +74,16 @@
     { "id": "eaesimdang_candy", "name": "에심당 뽈사탕", "val": 0, "icon": "Trickcal-Icons/inventory/음식_에심당 뽈사탕.webp", "count": "" }
   ],
 
+  "efficiencyBaseline": {
+    "price": 99000,
+    "contents": {
+      "p_elif": 6000,
+      "crayon_ultra": 10,
+      "scandy": 500,
+      "kcandy": 500
+    }
+  },
+
   "passPackages": [
     {
       "id": "트릭컬 패스(기본)",
