@@ -187,7 +187,7 @@
       "id": "델리아의 탐험 일지",
       "name": "델리아의 탐험 일지",
       "price": 5500,
-      "releasedApostle": "델리아",
+      "category": "델리아",
       "saleEndDate": "2026-03-26T09:00",
       "contents": {
         "엘리프(유료)": 170,
@@ -240,7 +240,7 @@
       "name": "2.5주년 전야제 선물 패키지",
       "price": 0,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "2.5주년 전야제",
+      "category": "2.5주년 전야제",
       "contents": {
         "★3 모집권": 1,
         "1급 비밀의 포도주스": 1,
@@ -254,7 +254,7 @@
       "name": "2.5주년 전야제 사탕 패키지",
       "price": 2500,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "2.5주년 전야제",
+      "category": "2.5주년 전야제",
       "contents": {
         "엘리프(유료)": 250,
         "왕사탕": 2250
@@ -265,7 +265,7 @@
       "name": "2.5주년 전야제 특별 패키지",
       "price": 25000,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "2.5주년 전야제",
+      "category": "2.5주년 전야제",
       "contents": {
         "엘리프(유료)": 2500,
         "사도 모집 티켓": 25,
@@ -280,7 +280,7 @@
       "name": "폴랑의 축제 준비 패키지",
       "price": 3300,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "폴랑",
+      "category": "폴랑",
       "contents": {
         "엘리프(유료)": 100,
         "엘리프(무료)": 100,
@@ -299,7 +299,7 @@
       "name": "네르의 축제 연회 패키지",
       "price": 6600,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "네르",
+      "category": "네르",
       "contents": {
         "엘리프(유료)": 200,
         "엘리프(무료)": 200,
@@ -316,7 +316,7 @@
       "name": "에르핀의 축제 설렘 패키지",
       "price": 19800,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "에르핀",
+      "category": "에르핀",
       "contents": {
         "엘리프(유료)": 600,
         "엘리프(무료)": 600,
@@ -331,7 +331,7 @@
       "name": "에피카의 음악회 패키지",
       "price": 49500,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "에피카",
+      "category": "에피카",
       "contents": {
         "엘리프(유료)": 1500,
         "교단 증명서": 400,
@@ -345,7 +345,7 @@
       "name": "지휘자 에피카 패키지",
       "price": 99000,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "에피카",
+      "category": "에피카",
       "contents": {
         "엘리프(유료)": 3000,
         "에피카의 사도 증명서": 20,
@@ -358,7 +358,7 @@
       "name": "화이트데이 왕사탕 패키지",
       "price": 3300,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "화이트데이",
+      "category": "화이트데이",
       "contents": {
         "엘리프(유료)": 100,
         "왕사탕": 200,
@@ -372,7 +372,7 @@
       "name": "화이트데이 별사탕 패키지",
       "price": 3300,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "화이트데이",
+      "category": "화이트데이",
       "contents": {
         "엘리프(유료)": 100,
         "별사탕": 100,
@@ -386,7 +386,7 @@
       "name": "달콤한 화이트데이 패키지",
       "price": 9900,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "화이트데이",
+      "category": "화이트데이",
       "contents": {
         "엘리프(유료)": 300,
         "왕사탕": 300,
@@ -400,7 +400,7 @@
       "name": "화이트데이 크레파스 패키지",
       "price": 29500,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "화이트데이",
+      "category": "화이트데이",
       "contents": {
         "엘리프(유료)": 900,
         "엘리프(무료)": 900,
@@ -413,7 +413,7 @@
       "name": "화이트데이 특별 패키지",
       "price": 49500,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "화이트데이",
+      "category": "화이트데이",
       "contents": {
         "엘리프(유료)": 1500,
         "사도 모집 티켓": 50,
@@ -427,7 +427,7 @@
       "name": "델리아의 탐험 패키지",
       "price": 9900,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "델리아",
+      "category": "델리아",
       "contents": {
         "엘리프(유료)": 300,
         "사도 모집 티켓": 10,
@@ -439,7 +439,7 @@
       "name": "델리아의 장비 패키지",
       "price": 49500,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "델리아",
+      "category": "델리아",
       "contents": {
         "엘리프(유료)": 1500,
         "엘리프(무료)": 1500,
@@ -459,7 +459,7 @@
       "name": "모험가 델리아 패키지",
       "price": 49500,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "델리아",
+      "category": "델리아",
       "contents": {
         "엘리프(유료)": 1500,
         "엘리프(무료)": 1500,
@@ -472,7 +472,7 @@
       "name": "펭귄 탐험대 델리아 패키지",
       "price": 99000,
       "saleEndDate": "2026-03-26T10:59",
-      "releasedApostle": "델리아",
+      "category": "델리아",
       "contents": {
         "사도 모집 티켓": 100,
         "★3 순수 사도 모집권": 3
