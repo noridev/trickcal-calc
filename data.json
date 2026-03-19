@@ -1,86 +1,153 @@
 {
   "items": [
-    { "id": "p_elif", "name": "엘리프(유료)", "val": 2, "icon": "Trickcal-Icons/currency/재화_엘리프.webp", "count": "" },
-    { "id": "f_elif", "name": "엘리프(무료)", "val": 1, "icon": "Trickcal-Icons/currency/재화_엘리프.webp", "count": "" },
-    { "id": "kcandy", "name": "왕사탕", "val": 0.5, "icon": "Trickcal-Icons/currency/재화_왕사탕.webp", "count": "" },
-    { "id": "scandy", "name": "별사탕", "val": 2, "icon": "Trickcal-Icons/currency/재화_별사탕.webp", "count": "" },
-    { "id": "gold", "name": "골드 (1k)", "val": 0.4, "icon": "Trickcal-Icons/currency/재화_골드.webp", "count": "" },
-    { "id": "manual", "name": "장비의정석", "val": 0.125, "icon": "Trickcal-Icons/currency/재화_장비의 정석.webp", "count": "" },
-    { "id": "thumbs", "name": "참! 잘했어요", "val": 20, "icon": "Trickcal-Icons/currency/재화_참! 잘했어요.webp", "count": "" },
-    { "id": "nuru", "name": "누루링 수렵 면허권", "val": 40, "icon": "Trickcal-Icons/currency/재화_누루링 수렵 면허권.webp", "count": "" },
-    { "id": "cert", "name": "교단 증명서", "val": 8.5, "icon": "Trickcal-Icons/currency/재화_교단증명서.webp", "count": "" },
+    { "id": "엘리프(유료)", "name": "엘리프(유료)", "val": 2, "icon": "Trickcal-Icons/currency/재화_엘리프.webp", "count": "" },
+    { "id": "엘리프(무료)", "name": "엘리프(무료)", "val": 1, "icon": "Trickcal-Icons/currency/재화_엘리프.webp", "count": "" },
+    { "id": "왕사탕", "name": "왕사탕", "val": 0.5, "icon": "Trickcal-Icons/currency/재화_왕사탕.webp", "count": "" },
+    { "id": "별사탕", "name": "별사탕", "val": 2, "icon": "Trickcal-Icons/currency/재화_별사탕.webp", "count": "" },
+    { "id": "골드 (1k)", "name": "골드 (1k)", "val": 0.4, "icon": "Trickcal-Icons/currency/재화_골드.webp", "count": "" },
+    { "id": "장비의정석", "name": "장비의정석", "val": 0.125, "icon": "Trickcal-Icons/currency/재화_장비의 정석.webp", "count": "" },
+    { "id": "참! 잘했어요", "name": "참! 잘했어요", "val": 20, "icon": "Trickcal-Icons/currency/재화_참! 잘했어요.webp", "count": "" },
+    { "id": "누루링 수렵 면허권", "name": "누루링 수렵 면허권", "val": 40, "icon": "Trickcal-Icons/currency/재화_누루링 수렵 면허권.webp", "count": "" },
+    { "id": "교단 증명서", "name": "교단 증명서", "val": 8.5, "icon": "Trickcal-Icons/currency/재화_교단증명서.webp", "count": "" },
 
-    { "id": "crayon_basic", "name": "하급 크레파스", "val": 0, "icon": "Trickcal-Icons/currency/재화_하급 크레파스.webp", "count": "" },
-    { "id": "crayon_average", "name": "중급 크레파스", "val": 0, "icon": "Trickcal-Icons/currency/재화_중급 크레파스.png.webp", "count": "" },
-    { "id": "crayon_epic", "name": "상급 크레파스", "val": 60, "icon": "Trickcal-Icons/currency/재화_상급 크레파스.webp", "count": "" },
-    { "id": "crayon_ultra", "name": "최상급 크레파스", "val": 668, "icon": "Trickcal-Icons/currency/재화_최상급 크레파스.webp", "count": "" },
+    { "id": "하급 크레파스", "name": "하급 크레파스", "val": 0, "icon": "Trickcal-Icons/currency/재화_하급 크레파스.webp", "count": "" },
+    { "id": "중급 크레파스", "name": "중급 크레파스", "val": 0, "icon": "Trickcal-Icons/currency/재화_중급 크레파스.png.webp", "count": "" },
+    { "id": "상급 크레파스", "name": "상급 크레파스", "val": 60, "icon": "Trickcal-Icons/currency/재화_상급 크레파스.webp", "count": "" },
+    { "id": "최상급 크레파스", "name": "최상급 크레파스", "val": 668, "icon": "Trickcal-Icons/currency/재화_최상급 크레파스.webp", "count": "" },
 
-    { "id": "spec_ticket", "name": "★3 초고급 모집권", "val": 130, "icon": "Trickcal-Icons/inventory/모집권_3성 초고급 모집권.webp", "count": "" },
-    { "id": "adv_ticket", "name": "★3 초특별 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 초특별 모집권.webp", "count": "" },
-    { "id": "attr_순수", "name": "★3 순수 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 순수 사도 모집권.webp", "count": "" },
-    { "id": "attr_냉정", "name": "★3 냉정 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 냉정 사도 모집권.webp", "count": "" },
-    { "id": "attr_광기", "name": "★3 광기 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 광기사도 모집권.webp", "count": "" },
-    { "id": "attr_활발", "name": "★3 활발 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 활발 사도 모집권.webp", "count": "" },
-    { "id": "attr_우울", "name": "★3 우울 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 우울 사도 모집권.webp", "count": "" },
-    { "id": "pos_탱커", "name": "★3 탱커 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 탱커 사도 모집권.webp", "count": "" },
-    { "id": "pos_딜러", "name": "★3 딜러 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 딜러 사도 모집권.webp", "count": "" },
-    { "id": "pos_서포터", "name": "★3 서포터 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 서포터 사도 모집권.webp", "count": "" },
+    { "id": "★3 모집권", "name": "★3 모집권", "val": 80, "icon": "", "count": "" },
+    { "id": "★3 초고급 모집권", "name": "★3 초고급 모집권", "val": 130, "icon": "Trickcal-Icons/inventory/모집권_3성 초고급 모집권.webp", "count": "" },
+    { "id": "★3 초특별 모집권", "name": "★3 초특별 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 초특별 모집권.webp", "count": "" },
+    { "id": "★3 순수 사도 모집권", "name": "★3 순수 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 순수 사도 모집권.webp", "count": "" },
+    { "id": "★3 냉정 사도 모집권", "name": "★3 냉정 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 냉정 사도 모집권.webp", "count": "" },
+    { "id": "★3 광기 사도 모집권", "name": "★3 광기 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 광기사도 모집권.webp", "count": "" },
+    { "id": "★3 활발 사도 모집권", "name": "★3 활발 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 활발 사도 모집권.webp", "count": "" },
+    { "id": "★3 우울 사도 모집권", "name": "★3 우울 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 우울 사도 모집권.webp", "count": "" },
+    { "id": "★3 탱커 사도 모집권", "name": "★3 탱커 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 탱커 사도 모집권.webp", "count": "" },
+    { "id": "★3 딜러 사도 모집권", "name": "★3 딜러 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 딜러 사도 모집권.webp", "count": "" },
+    { "id": "★3 서포터 사도 모집권", "name": "★3 서포터 사도 모집권", "val": 260, "icon": "Trickcal-Icons/inventory/모집권_3성 서포터 사도 모집권.webp", "count": "" },
 
-    { "id": "new_master_select_ticket", "name": "새싹 교주용 사도 선택권", "val": 1450, "icon": "Trickcal-Icons/inventory/모집권_새싹 교주용 사도 선택권.webp", "count": "" },
-    { "id": "rank_3_select_ticket", "name": "★3 보유 일반 사도 선택권", "val": 2550, "icon": "Trickcal-Icons/inventory/모집권_3성 보유 일반 사도 선택권.webp", "count": "" },
-    { "id": "have_elch_select_ticket", "name": "보유 엘다인 사도 선택권", "val": 6800, "icon": "Trickcal-Icons/inventory/모집권_보유 엘다인 사도 선택권.webp", "count": "" },
-    { "id": "elch_select_ticket", "name": "엘다인 사도 선택권", "val": 6800, "icon": "Trickcal-Icons/inventory/모집권_보유 엘다인 사도 선택권.webp", "count": "" },
+    { "id": "새싹 교주용 사도 선택권", "name": "새싹 교주용 사도 선택권", "val": 1450, "icon": "Trickcal-Icons/inventory/모집권_새싹 교주용 사도 선택권.webp", "count": "" },
+    { "id": "★3 보유 일반 사도 선택권", "name": "★3 보유 일반 사도 선택권", "val": 2550, "icon": "Trickcal-Icons/inventory/모집권_3성 보유 일반 사도 선택권.webp", "count": "" },
+    { "id": "보유 엘다인 사도 선택권", "name": "보유 엘다인 사도 선택권", "val": 6800, "icon": "Trickcal-Icons/inventory/모집권_보유 엘다인 사도 선택권.webp", "count": "" },
+    { "id": "엘다인 사도 선택권", "name": "엘다인 사도 선택권", "val": 6800, "icon": "Trickcal-Icons/inventory/모집권_보유 엘다인 사도 선택권.webp", "count": "" },
 
-    { "id": "elch_yeon", "name": "엘다인 사도 연성카드", "val": 680, "icon": "Trickcal-Icons/연성 카드/9. 엘다인 사도 연성카드.webp", "count": "" },
+    { "id": "엘다인 사도 연성카드", "name": "엘다인 사도 연성카드", "val": 680, "icon": "Trickcal-Icons/연성 카드/9. 엘다인 사도 연성카드.webp", "count": "" },
 
-    { "id": "m_low", "name": "하급 마시멜로 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_하급 마시멜로 선택 상자.webp", "count": "" },
-    { "id": "m_mid", "name": "중급 마시멜로 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_중급 마시멜로 선택 상자.webp", "count": "" },
-    { "id": "m_high", "name": "상급 마시멜로 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_상급 마시멜로 선택 상자.webp", "count": "" },
-    { "id": "food_blue", "name": "교단 요리 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교단 요리 상자.webp", "count": "" },
-    { "id": "food_purple", "name": "교단 특제 요리 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교단 요리 상자.webp", "count": "" },
-    { "id": "light_box", "name": "무작위 빛 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_무작위 빛 상자.webp", "count": "" },
-    { "id": "deco_box", "name": "방 꾸미기 재료 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교주의 방 꾸미기 재료 상자.webp", "count": "" },
-    { "id": "growth_box", "name": "교단 성장 재료 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교단 성장 재료 상자.webp", "count": "" },
-    { "id": "s_arti_box", "name": "희귀 아티팩트 선택 상자", "val": 4500, "icon": "Trickcal-Icons/inventory/상자_희귀 아티팩트 선택 상자.webp", "count": "" },
-    { "id": "s_spell_box", "name": "희귀 스펠 카드 선택 상자", "val": 4500, "icon": "Trickcal-Icons/inventory/상자_희귀 스펠선택 상자.webp", "count": "" },
-    { "id": "l_arti_box", "name": "전설 아티팩트 선택 상자", "val": 6000, "icon": "Trickcal-Icons/inventory/상자_전설 아티팩트 선택 상자.webp", "count": "" },
-    { "id": "l_spell_box", "name": "전설 스펠 카드 선택 상자", "val": 6000, "icon": "Trickcal-Icons/inventory/상자_전설 스펠 선택 상자.webp", "count": "" },
-    { "id": "special_growth_box", "name": "희귀 교단 재료 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_희귀 교단 재료 선택 상자.webp", "count": "" },
+    { "id": "하급 마시멜로 선택 상자", "name": "하급 마시멜로 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_하급 마시멜로 선택 상자.webp", "count": "" },
+    { "id": "중급 마시멜로 선택 상자", "name": "중급 마시멜로 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_중급 마시멜로 선택 상자.webp", "count": "" },
+    { "id": "상급 마시멜로 선택 상자", "name": "상급 마시멜로 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_상급 마시멜로 선택 상자.webp", "count": "" },
+    { "id": "교단 요리 상자", "name": "교단 요리 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교단 요리 상자.webp", "count": "" },
+    { "id": "교단 특제 요리 상자", "name": "교단 특제 요리 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교단 요리 상자.webp", "count": "" },
+    { "id": "무작위 빛 상자", "name": "무작위 빛 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_무작위 빛 상자.webp", "count": "" },
+    { "id": "방 꾸미기 재료 상자", "name": "방 꾸미기 재료 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교주의 방 꾸미기 재료 상자.webp", "count": "" },
+    { "id": "교단 성장 재료 상자", "name": "교단 성장 재료 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교단 성장 재료 상자.webp", "count": "" },
+    { "id": "희귀 아티팩트 선택 상자", "name": "희귀 아티팩트 선택 상자", "val": 4500, "icon": "Trickcal-Icons/inventory/상자_희귀 아티팩트 선택 상자.webp", "count": "" },
+    { "id": "희귀 스펠 카드 선택 상자", "name": "희귀 스펠 카드 선택 상자", "val": 4500, "icon": "Trickcal-Icons/inventory/상자_희귀 스펠선택 상자.webp", "count": "" },
+    { "id": "전설 아티팩트 선택 상자", "name": "전설 아티팩트 선택 상자", "val": 6000, "icon": "Trickcal-Icons/inventory/상자_전설 아티팩트 선택 상자.webp", "count": "" },
+    { "id": "전설 스펠 카드 선택 상자", "name": "전설 스펠 카드 선택 상자", "val": 6000, "icon": "Trickcal-Icons/inventory/상자_전설 스펠 선택 상자.webp", "count": "" },
+    { "id": "희귀 교단 재료 선택 상자", "name": "희귀 교단 재료 선택 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_희귀 교단 재료 선택 상자.webp", "count": "" },
 
-    { "id": "apostle_select_rank_1_equipment_set", "name": "사도 선택형 1랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 1랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_2_equipment_set", "name": "사도 선택형 2랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 2랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_3_equipment_set", "name": "사도 선택형 3랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 3랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_4_equipment_set", "name": "사도 선택형 4랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 4랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_5_equipment_set", "name": "사도 선택형 5랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 5랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_6_equipment_set", "name": "사도 선택형 6랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 6랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_7_equipment_set", "name": "사도 선택형 7랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 7랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_8_equipment_set", "name": "사도 선택형 8랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 8랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_9_equipment_set", "name": "사도 선택형 9랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 9랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_10_equipment_set", "name": "사도 선택형 10랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 10랭크 장비 세트.webp", "count": "" },
-    { "id": "apostle_select_rank_11_equipment_set", "name": "사도 선택형 11랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 11랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 1랭크 장비 세트", "name": "사도 선택형 1랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 1랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 2랭크 장비 세트", "name": "사도 선택형 2랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 2랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 3랭크 장비 세트", "name": "사도 선택형 3랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 3랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 4랭크 장비 세트", "name": "사도 선택형 4랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 4랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 5랭크 장비 세트", "name": "사도 선택형 5랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 5랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 6랭크 장비 세트", "name": "사도 선택형 6랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 6랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 7랭크 장비 세트", "name": "사도 선택형 7랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 7랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 8랭크 장비 세트", "name": "사도 선택형 8랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 8랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 9랭크 장비 세트", "name": "사도 선택형 9랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 9랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 10랭크 장비 세트", "name": "사도 선택형 10랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 10랭크 장비 세트.webp", "count": "" },
+    { "id": "사도 선택형 11랭크 장비 세트", "name": "사도 선택형 11랭크 장비 세트", "val": 0, "icon": "Trickcal-Icons/inventory/상자_사도 선택형 11랭크 장비 세트.webp", "count": "" },
 
-    { "id": "t_apostle", "name": "사도 모집 티켓", "val": 60, "icon": "Trickcal-Icons/currency/재화_사도 모집 티켓.webp", "count": "" },
-    { "id": "t_card", "name": "카드 뽑기 티켓", "val": 40, "icon": "Trickcal-Icons/currency/재화_카드 뽑기 티켓.webp", "count": "" },
-    { "id": "t_special_card", "name": "전설 카드 뽑기권", "val": 40, "icon": "Trickcal-Icons/inventory/모집권_전설 카드 뽑기권.webp", "count": "" },
+    { "id": "사도 모집 티켓", "name": "사도 모집 티켓", "val": 60, "icon": "Trickcal-Icons/currency/재화_사도 모집 티켓.webp", "count": "" },
+    { "id": "카드 뽑기 티켓", "name": "카드 뽑기 티켓", "val": 40, "icon": "Trickcal-Icons/currency/재화_카드 뽑기 티켓.webp", "count": "" },
+    { "id": "전설 카드 뽑기권", "name": "전설 카드 뽑기권", "val": 40, "icon": "Trickcal-Icons/inventory/모집권_전설 카드 뽑기권.webp", "count": "" },
 
-    { "id": "r_low", "name": "하급 제련석", "val": 3, "icon": "Trickcal-Icons/currency/재화_하급 제련석.webp", "count": "" },
-    { "id": "r_mid", "name": "중급 제련석", "val": 6, "icon": "Trickcal-Icons/currency/재화_중급 제련석.webp", "count": "" },
-    { "id": "r_high", "name": "상급 제련석", "val": 13, "icon": "Trickcal-Icons/currency/재화_상급 제련석.webp", "count": "" },
+    { "id": "하급 제련석", "name": "하급 제련석", "val": 3, "icon": "Trickcal-Icons/currency/재화_하급 제련석.webp", "count": "" },
+    { "id": "중급 제련석", "name": "중급 제련석", "val": 6, "icon": "Trickcal-Icons/currency/재화_중급 제련석.webp", "count": "" },
+    { "id": "상급 제련석", "name": "상급 제련석", "val": 13, "icon": "Trickcal-Icons/currency/재화_상급 제련석.webp", "count": "" },
 
-    { "id": "musim", "name": "MUSIM 칩", "val": 0, "icon": "Trickcal-Icons/currency/재화_MUSIM 칩.webp", "count": "" },
+    { "id": "MUSIM 칩", "name": "MUSIM 칩", "val": 0, "icon": "", "count": "" },
 
-    { "id": "secom_vita_f", "name": "새콤비타F", "val": 0, "icon": "Trickcal-Icons/inventory/음식_새콤비타F.webp", "count": "" },
+    { "id": "에피카의 사도 증명서", "name": "에피카의 사도 증명서", "val": 0, "icon": "", "count": "" },
 
-    { "id": "eaesimdang_candy", "name": "에심당 뽈사탕", "val": 0, "icon": "Trickcal-Icons/inventory/음식_에심당 뽈사탕.webp", "count": "" }
+    { "id": "1급 비밀의 포도주스", "name": "1급 비밀의 포도주스", "val": 0, "icon": "foods/public/images/food/1급 비밀의 포도주스.webp", "count": "" },
+    { "id": "927곡 미숫가루", "name": "927곡 미숫가루", "val": 0, "icon": "foods/public/images/food/927곡 미숫가루.webp", "count": "" },
+    { "id": "ANSA 우주식량", "name": "ANSA 우주식량", "val": 0, "icon": "foods/public/images/food/ANSA 우주식량.webp", "count": "" },
+    { "id": "UFC 당근 튀김", "name": "UFC 당근 튀김", "val": 0, "icon": "foods/public/images/food/UFC 당근 튀김.webp", "count": "" },
+    { "id": "UFC 야채 튀김", "name": "UFC 야채 튀김", "val": 0, "icon": "foods/public/images/food/UFC 야채 튀김.webp", "count": "" },
+    { "id": "계피맛 건강 알사탕", "name": "계피맛 건강 알사탕", "val": 0, "icon": "foods/public/images/food/계피맛 건강 알사탕.webp", "count": "" },
+    { "id": "계피맛 알사탕", "name": "계피맛 알사탕", "val": 0, "icon": "foods/public/images/food/계피맛 알사탕.webp", "count": "" },
+    { "id": "고급 캔 사료", "name": "고급 캔 사료", "val": 0, "icon": "foods/public/images/food/고급 캔 사료.webp", "count": "" },
+    { "id": "공기 커틀릿", "name": "공기 커틀릿", "val": 0, "icon": "foods/public/images/food/공기 커틀릿.webp", "count": "" },
+    { "id": "금탕후루", "name": "금탕후루", "val": 0, "icon": "foods/public/images/food/금탕후루.webp", "count": "" },
+    { "id": "꿀꿀단지", "name": "꿀꿀단지", "val": 0, "icon": "foods/public/images/food/꿀꿀단지.webp", "count": "" },
+    { "id": "꿀단지", "name": "꿀단지", "val": 0, "icon": "foods/public/images/food/꿀단지.webp", "count": "" },
+    { "id": "두입초 쌈", "name": "두입초 쌈", "val": 0, "icon": "foods/public/images/food/두입초 쌈.webp", "count": "" },
+    { "id": "딥다크 초콜릿 아이스크림", "name": "딥다크 초콜릿 아이스크림", "val": 0, "icon": "foods/public/images/food/딥다크 초콜릿 아이스크림.webp", "count": "" },
+    { "id": "따뜻한 아이스 아메리카노", "name": "따뜻한 아이스 아메리카노", "val": 0, "icon": "foods/public/images/food/따뜻한 아이스 아메리카노.webp", "count": "" },
+    { "id": "딸기 케이크", "name": "딸기 케이크", "val": 0, "icon": "foods/public/images/food/딸기 케이크.webp", "count": "" },
+    { "id": "떡국", "name": "떡국", "val": 0, "icon": "foods/public/images/food/떡국.webp", "count": "" },
+    { "id": "뜨거운 냉동 아메리카노", "name": "뜨거운 냉동 아메리카노", "val": 0, "icon": "foods/public/images/food/뜨거운 냉동 아메리카노.webp", "count": "" },
+    { "id": "레몬차", "name": "레몬차", "val": 0, "icon": "foods/public/images/food/레몬차.webp", "count": "" },
+    { "id": "로얄 허니갈릭 살몬", "name": "로얄 허니갈릭 살몬", "val": 0, "icon": "foods/public/images/food/로얄 허니갈릭 살몬.webp", "count": "" },
+    { "id": "마시멜로 마카롱", "name": "마시멜로 마카롱", "val": 0, "icon": "foods/public/images/food/마시멜로 마카롱.webp", "count": "" },
+    { "id": "만화 고기 구이", "name": "만화 고기 구이", "val": 0, "icon": "foods/public/images/food/만화 고기 구이.webp", "count": "" },
+    { "id": "매듭 빵", "name": "매듭 빵", "val": 0, "icon": "foods/public/images/food/매듭 빵.webp", "count": "" },
+    { "id": "머스크 멜론 보코치니", "name": "머스크 멜론 보코치니", "val": 0, "icon": "foods/public/images/food/머스크 멜론 보코치니.webp", "count": "" },
+    { "id": "멜론 보코치니", "name": "멜론 보코치니", "val": 0, "icon": "foods/public/images/food/멜론 보코치니.webp", "count": "" },
+    { "id": "미숫가루", "name": "미숫가루", "val": 0, "icon": "foods/public/images/food/미숫가루.webp", "count": "" },
+    { "id": "민트 초코 아이스크림", "name": "민트 초코 아이스크림", "val": 0, "icon": "foods/public/images/food/민트 초코 아이스크림.webp", "count": "" },
+    { "id": "백금탕후루", "name": "백금탕후루", "val": 0, "icon": "foods/public/images/food/백금탕후루.webp", "count": "" },
+    { "id": "보물 타르트", "name": "보물 타르트", "val": 0, "icon": "foods/public/images/food/보물 타르트.webp", "count": "" },
+    { "id": "보석 타르트", "name": "보석 타르트", "val": 0, "icon": "foods/public/images/food/보석 타르트.webp", "count": "" },
+    { "id": "부쉬 드 노엘", "name": "부쉬 드 노엘", "val": 0, "icon": "foods/public/images/food/부쉬 드 노엘.webp", "count": "" },
+    { "id": "비밀의 포도주스", "name": "비밀의 포도주스", "val": 0, "icon": "foods/public/images/food/비밀의 포도주스.webp", "count": "" },
+    { "id": "새콤비타F", "name": "새콤비타F", "val": 0, "icon": "foods/public/images/food/새콤비타F.webp", "count": "" },
+    { "id": "석류석 열매", "name": "석류석 열매", "val": 0, "icon": "foods/public/images/food/석류석 열매.webp", "count": "" },
+    { "id": "석류석 화채", "name": "석류석 화채", "val": 0, "icon": "foods/public/images/food/석류석 화채.webp", "count": "" },
+    { "id": "소프트 크림 브륄레", "name": "소프트 크림 브륄레", "val": 0, "icon": "foods/public/images/food/소프트 크림 브륄레.webp", "count": "" },
+    { "id": "송편", "name": "송편", "val": 0, "icon": "foods/public/images/food/송편.webp", "count": "" },
+    { "id": "수소 커틀릿", "name": "수소 커틀릿", "val": 0, "icon": "foods/public/images/food/수소 커틀릿.webp", "count": "" },
+    { "id": "쌀밥 한 공기", "name": "쌀밥 한 공기", "val": 0, "icon": "foods/public/images/food/쌀밥 한 공기.webp", "count": "" },
+    { "id": "아몬드 로쉐", "name": "아몬드 로쉐", "val": 0, "icon": "foods/public/images/food/아몬드 로쉐.webp", "count": "" },
+    { "id": "악령 푸딩", "name": "악령 푸딩", "val": 0, "icon": "foods/public/images/food/악령 푸딩.webp", "count": "" },
+    { "id": "얌얌비타C", "name": "얌얌비타C", "val": 0, "icon": "foods/public/images/food/얌얌비타C.webp", "count": "" },
+    { "id": "에심당 뽈사탕", "name": "에심당 뽈사탕", "val": 0, "icon": "foods/public/images/food/에심당 뽈사탕.webp", "count": "" },
+    { "id": "엘플릭스 캬라멜 팝콘", "name": "엘플릭스 캬라멜 팝콘", "val": 0, "icon": "foods/public/images/food/엘플릭스 캬라멜 팝콘.webp", "count": "" },
+    { "id": "와앙 딸기 케이크", "name": "와앙 딸기 케이크", "val": 0, "icon": "foods/public/images/food/와앙 딸기 케이크.webp", "count": "" },
+    { "id": "용족 사탕", "name": "용족 사탕", "val": 0, "icon": "foods/public/images/food/용족 사탕.webp", "count": "" },
+    { "id": "용족 세공 사탕", "name": "용족 세공 사탕", "val": 0, "icon": "foods/public/images/food/용족 세공 사탕.webp", "count": "" },
+    { "id": "우주식량", "name": "우주식량", "val": 0, "icon": "foods/public/images/food/우주식량.webp", "count": "" },
+    { "id": "유기농 레몬차", "name": "유기농 레몬차", "val": 0, "icon": "foods/public/images/food/유기농 레몬차.webp", "count": "" },
+    { "id": "유령 푸딩", "name": "유령 푸딩", "val": 0, "icon": "foods/public/images/food/유령 푸딩.webp", "count": "" },
+    { "id": "저당 마시멜로 마카롱", "name": "저당 마시멜로 마카롱", "val": 0, "icon": "foods/public/images/food/저당 마시멜로 마카롱.webp", "count": "" },
+    { "id": "찹쌀밥 한 공기", "name": "찹쌀밥 한 공기", "val": 0, "icon": "foods/public/images/food/찹쌀밥 한 공기.webp", "count": "" },
+    { "id": "초콜릿 아이스크림", "name": "초콜릿 아이스크림", "val": 0, "icon": "foods/public/images/food/초콜릿 아이스크림.webp", "count": "" },
+    { "id": "캔 사료", "name": "캔 사료", "val": 0, "icon": "foods/public/images/food/캔 사료.webp", "count": "" },
+    { "id": "캬라멜 팝콘", "name": "캬라멜 팝콘", "val": 0, "icon": "foods/public/images/food/캬라멜 팝콘.webp", "count": "" },
+    { "id": "코코넛 만능 녹즙", "name": "코코넛 만능 녹즙", "val": 0, "icon": "foods/public/images/food/코코넛 만능 녹즙.webp", "count": "" },
+    { "id": "코코넛 솔잎죽", "name": "코코넛 솔잎죽", "val": 0, "icon": "foods/public/images/food/코코넛 솔잎죽.webp", "count": "" },
+    { "id": "크림 브륄레", "name": "크림 브륄레", "val": 0, "icon": "foods/public/images/food/크림 브륄레.webp", "count": "" },
+    { "id": "트리플 민트 초코 아이스크림", "name": "트리플 민트 초코 아이스크림", "val": 0, "icon": "foods/public/images/food/트리플 민트 초코 아이스크림.webp", "count": "" },
+    { "id": "하트 매듭 빵", "name": "하트 매듭 빵", "val": 0, "icon": "foods/public/images/food/하트 매듭 빵.webp", "count": "" },
+    { "id": "한입초 쌈", "name": "한입초 쌈", "val": 0, "icon": "foods/public/images/food/한입초 쌈.webp", "count": "" },
+    { "id": "해적 만화 고기 구이", "name": "해적 만화 고기 구이", "val": 0, "icon": "foods/public/images/food/해적 만화 고기 구이.webp", "count": "" },
+    { "id": "해초 샐러드", "name": "해초 샐러드", "val": 0, "icon": "foods/public/images/food/해초 샐러드.webp", "count": "" },
+    { "id": "해초 포케", "name": "해초 포케", "val": 0, "icon": "foods/public/images/food/해초 포케.webp", "count": "" },
+    { "id": "허니갈릭 살몬", "name": "허니갈릭 살몬", "val": 0, "icon": "foods/public/images/food/허니갈릭 살몬.webp", "count": "" },
+    { "id": "호박 스튜", "name": "호박 스튜", "val": 0, "icon": "foods/public/images/food/호박 스튜.webp", "count": "" },
+    { "id": "호박 스프", "name": "호박 스프", "val": 0, "icon": "foods/public/images/food/호박 스프.webp", "count": "" }
   ],
 
   "efficiencyBaseline": {
     "price": 99000,
     "contents": {
-      "p_elif": 6000,
-      "crayon_ultra": 10,
-      "scandy": 500,
-      "kcandy": 500
+      "엘리프(유료)": 6000,
+      "최상급 크레파스": 10,
+      "별사탕": 500,
+      "왕사탕": 500
     }
   },
 
@@ -90,20 +157,20 @@
       "name": "트릭컬 패스(기본)",
       "price": 11000,
       "contents": {
-        "gold": 660,
-        "p_elif": 700,
-        "t_card": 6,
-        "t_apostle": 6,
-        "kcandy": 300,
-        "scandy": 200,
-        "m_high": 10,
-        "m_mid": 40,
-        "m_low": 60,
-        "r_high": 3,
-        "r_mid": 6,
-        "r_low": 9,
-        "crayon_epic": 3,
-        "crayon_ultra": 2
+        "골드 (1k)": 660,
+        "엘리프(유료)": 700,
+        "카드 뽑기 티켓": 6,
+        "사도 모집 티켓": 6,
+        "왕사탕": 300,
+        "별사탕": 200,
+        "상급 마시멜로 선택 상자": 10,
+        "중급 마시멜로 선택 상자": 40,
+        "하급 마시멜로 선택 상자": 60,
+        "상급 제련석": 3,
+        "중급 제련석": 6,
+        "하급 제련석": 9,
+        "상급 크레파스": 3,
+        "최상급 크레파스": 2
       }
     },
     {
@@ -111,10 +178,11 @@
       "name": "트릭컬 패스(고급)",
       "price": 13000,
       "contents": {
-        "p_elif": 800,
-        "thumbs": 30
+        "엘리프(유료)": 800,
+        "참! 잘했어요": 30
       }
     },
+
     {
       "id": "델리아의 탐험 일지",
       "name": "델리아의 탐험 일지",
@@ -122,11 +190,11 @@
       "releasedApostle": "델리아",
       "saleEndDate": "2026-03-26T09:00",
       "contents": {
-        "p_elif": 170,
-        "kcandy": 200,
-        "scandy": 300,
-        "t_apostle": 8,
-        "t_card": 7
+        "엘리프(유료)": 170,
+        "왕사탕": 200,
+        "별사탕": 300,
+        "사도 모집 티켓": 8,
+        "카드 뽑기 티켓": 7
       }
     }
   ],
@@ -137,7 +205,7 @@
       "name": "새싹 교주 사도 선택 패키지",
       "price": 1100,
       "contents": {
-        "new_master_select_ticket": 1
+        "새싹 교주용 사도 선택권": 1
       }
     },
     {
@@ -145,16 +213,16 @@
       "name": "새싹 교주 보상 한가득 패키지",
       "price": 12000,
       "contents": {
-        "p_elif": 400,
-        "spec_ticket": 1,
-        "t_apostle": 10,
-        "kcandy": 300,
-        "scandy": 300,
-        "gold": 500,
-        "manual": 1000,
-        "apostle_select_rank_4_equipment_set": 1,
-        "apostle_select_rank_5_equipment_set": 1,
-        "apostle_select_rank_6_equipment_set": 1
+        "엘리프(유료)": 400,
+        "★3 초고급 모집권": 1,
+        "사도 모집 티켓": 10,
+        "왕사탕": 300,
+        "별사탕": 300,
+        "골드 (1k)": 500,
+        "장비의정석": 1000,
+        "사도 선택형 4랭크 장비 세트": 1,
+        "사도 선택형 5랭크 장비 세트": 1,
+        "사도 선택형 6랭크 장비 세트": 1
       }
     },
     {
@@ -162,21 +230,141 @@
       "name": "새싹 교주 엘리프 가득 패키지",
       "price": 6600,
       "contents": {
-        "p_elif": 200,
-        "f_elif": 2000
+        "엘리프(유료)": 200,
+        "엘리프(무료)": 2000
       }
     },
+
+    {
+      "id": "2.5주년 전야제 선물 패키지",
+      "name": "2.5주년 전야제 선물 패키지",
+      "price": 0,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "2.5주년 전야제",
+      "contents": {
+        "★3 모집권": 1,
+        "1급 비밀의 포도주스": 1,
+        "보물 타르트": 1,
+        "머스크 멜론 보코치니": 1,
+        "해적 만화 고기 구이": 1
+      }
+    },
+    {
+      "id": "2.5주년 전야제 사탕 패키지",
+      "name": "2.5주년 전야제 사탕 패키지",
+      "price": 2500,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "2.5주년 전야제",
+      "contents": {
+        "엘리프(유료)": 250,
+        "왕사탕": 2250
+      }
+    },
+    {
+      "id": "2.5주년 전야제 특별 패키지",
+      "name": "2.5주년 전야제 특별 패키지",
+      "price": 25000,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "2.5주년 전야제",
+      "contents": {
+        "엘리프(유료)": 2500,
+        "사도 모집 티켓": 25,
+        "카드 뽑기 티켓": 25,
+        "누루링 수렵 면허권": 25,
+        "골드 (1k)": 2500
+      }
+    },
+
+    {
+      "id": "폴랑의 축제 준비 패키지",
+      "name": "폴랑의 축제 준비 패키지",
+      "price": 3300,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "폴랑",
+      "contents": {
+        "엘리프(유료)": 100,
+        "엘리프(무료)": 100,
+        "별사탕": 100,
+        "참! 잘했어요": 10,
+        "얌얌비타C": 10,
+        "교단 요리 상자": 10,
+        "교단 특제 요리 상자": 10,
+        "하급 제련석": 5,
+        "중급 제련석": 3,
+        "상급 제련석": 1
+      }
+    },
+    {
+      "id": "네르의 축제 연회 패키지",
+      "name": "네르의 축제 연회 패키지",
+      "price": 6600,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "네르",
+      "contents": {
+        "엘리프(유료)": 200,
+        "엘리프(무료)": 200,
+        "별사탕": 200,
+        "참! 잘했어요": 20,
+        "얌얌비타C": 20,
+        "교단 특제 요리 상자": 20,
+        "장비의정석": 2000,
+        "무작위 빛 상자": 2000
+      }
+    },
+    {
+      "id": "에르핀의 축제 설렘 패키지",
+      "name": "에르핀의 축제 설렘 패키지",
+      "price": 19800,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "에르핀",
+      "contents": {
+        "엘리프(유료)": 600,
+        "엘리프(무료)": 600,
+        "왕사탕": 600,
+        "별사탕": 600,
+        "참! 잘했어요": 60,
+        "★3 초고급 모집권": 1
+      }
+    },
+    {
+      "id": "에피카의 음악회 패키지",
+      "name": "에피카의 음악회 패키지",
+      "price": 49500,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "에피카",
+      "contents": {
+        "엘리프(유료)": 1500,
+        "교단 증명서": 400,
+        "골드 (1k)": 3000,
+        "참! 잘했어요": 100,
+        "교단 특제 요리 상자": 30
+      }
+    },
+    {
+      "id": "지휘자 에피카 패키지",
+      "name": "지휘자 에피카 패키지",
+      "price": 99000,
+      "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "에피카",
+      "contents": {
+        "엘리프(유료)": 3000,
+        "에피카의 사도 증명서": 20,
+        "★3 활발 사도 모집권": 3
+      }
+    },
+
     {
       "id": "화이트데이 왕사탕 패키지",
       "name": "화이트데이 왕사탕 패키지",
       "price": 3300,
       "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "화이트데이",
       "contents": {
-        "p_elif": 100,
-        "kcandy": 200,
-        "manual": 800,
-        "secom_vita_f": 5,
-        "eaesimdang_candy": 3
+        "엘리프(유료)": 100,
+        "왕사탕": 200,
+        "장비의정석": 800,
+        "새콤비타F": 5,
+        "에심당 뽈사탕": 3
       }
     },
     {
@@ -184,12 +372,13 @@
       "name": "화이트데이 별사탕 패키지",
       "price": 3300,
       "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "화이트데이",
       "contents": {
-        "p_elif": 100,
-        "scandy": 100,
-        "light_box": 300,
-        "secom_vita_f": 5,
-        "eaesimdang_candy": 3
+        "엘리프(유료)": 100,
+        "별사탕": 100,
+        "무작위 빛 상자": 300,
+        "새콤비타F": 5,
+        "에심당 뽈사탕": 3
       }
     },
     {
@@ -197,12 +386,13 @@
       "name": "달콤한 화이트데이 패키지",
       "price": 9900,
       "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "화이트데이",
       "contents": {
-        "p_elif": 300,
-        "kcandy": 300,
-        "scandy": 300,
-        "thumbs": 20,
-        "eaesimdang_candy": 10
+        "엘리프(유료)": 300,
+        "왕사탕": 300,
+        "별사탕": 300,
+        "참! 잘했어요": 20,
+        "에심당 뽈사탕": 10
       }
     },
     {
@@ -210,11 +400,12 @@
       "name": "화이트데이 크레파스 패키지",
       "price": 29500,
       "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "화이트데이",
       "contents": {
-        "p_elif": 900,
-        "f_elif": 900,
-        "crayon_ultra": 4,
-        "eaesimdang_candy": 30
+        "엘리프(유료)": 900,
+        "엘리프(무료)": 900,
+        "최상급 크레파스": 4,
+        "에심당 뽈사탕": 30
       }
     },
     {
@@ -222,12 +413,13 @@
       "name": "화이트데이 특별 패키지",
       "price": 49500,
       "saleEndDate": "2026-03-26T10:59",
+      "releasedApostle": "화이트데이",
       "contents": {
-        "p_elif": 1500,
-        "t_apostle": 50,
-        "scandy": 500,
-        "gold": 3000,
-        "eaesimdang_candy": 50
+        "엘리프(유료)": 1500,
+        "사도 모집 티켓": 50,
+        "별사탕": 500,
+        "골드 (1k)": 3000,
+        "에심당 뽈사탕": 50
       }
     },
     {
@@ -237,9 +429,9 @@
       "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
-        "p_elif": 300,
-        "t_apostle": 10,
-        "t_card": 10
+        "엘리프(유료)": 300,
+        "사도 모집 티켓": 10,
+        "카드 뽑기 티켓": 10
       }
     },
     {
@@ -249,17 +441,17 @@
       "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
-        "p_elif": 1500,
-        "f_elif": 1500,
-        "apostle_select_rank_3_equipment_set": 1,
-        "apostle_select_rank_4_equipment_set": 1,
-        "apostle_select_rank_5_equipment_set": 1,
-        "apostle_select_rank_6_equipment_set": 1,
-        "apostle_select_rank_7_equipment_set": 1,
-        "apostle_select_rank_8_equipment_set": 1,
-        "apostle_select_rank_9_equipment_set": 1,
-        "apostle_select_rank_10_equipment_set": 1,
-        "apostle_select_rank_11_equipment_set": 1
+        "엘리프(유료)": 1500,
+        "엘리프(무료)": 1500,
+        "사도 선택형 3랭크 장비 세트": 1,
+        "사도 선택형 4랭크 장비 세트": 1,
+        "사도 선택형 5랭크 장비 세트": 1,
+        "사도 선택형 6랭크 장비 세트": 1,
+        "사도 선택형 7랭크 장비 세트": 1,
+        "사도 선택형 8랭크 장비 세트": 1,
+        "사도 선택형 9랭크 장비 세트": 1,
+        "사도 선택형 10랭크 장비 세트": 1,
+        "사도 선택형 11랭크 장비 세트": 1
       }
     },
     {
@@ -269,10 +461,10 @@
       "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
-        "p_elif": 1500,
-        "f_elif": 1500,
-        "rank_3_select_ticket": 1,
-        "thumbs": 100
+        "엘리프(유료)": 1500,
+        "엘리프(무료)": 1500,
+        "★3 보유 일반 사도 선택권": 1,
+        "참! 잘했어요": 100
       }
     },
     {
@@ -282,8 +474,8 @@
       "saleEndDate": "2026-03-26T10:59",
       "releasedApostle": "델리아",
       "contents": {
-        "t_apostle": 100,
-        "attr_순수": 3
+        "사도 모집 티켓": 100,
+        "★3 순수 사도 모집권": 3
       }
     }
   ],
@@ -294,10 +486,10 @@
       "name": "데일리 엘리프 공물",
       "price": 9900,
       "contents": {
-        "p_elif": 1500,
-        "f_elif": 2000,
-        "manual": 2139,
-        "r_low": 124
+        "엘리프(유료)": 1500,
+        "엘리프(무료)": 2000,
+        "장비의정석": 2139,
+        "하급 제련석": 124
       }
     },
     {
@@ -305,7 +497,7 @@
       "name": "데일리 별사탕 공물",
       "price": 9900,
       "contents": {
-        "scandy": 4460
+        "별사탕": 4460
       }
     },
     {
@@ -313,8 +505,8 @@
       "name": "데일리 왕사탕 공물",
       "price": 5500,
       "contents": {
-        "kcandy": 4850,
-        "nuru": 31
+        "왕사탕": 4850,
+        "누루링 수렵 면허권": 31
       }
     }
   ],
@@ -325,11 +517,11 @@
       "name": "말랑말랑 마시멜로 패키지",
       "price": 9900,
       "contents": {
-        "p_elif": 300,
-        "kcandy": 300,
-        "m_low": 600,
-        "m_mid": 120,
-        "m_high": 80
+        "엘리프(유료)": 300,
+        "왕사탕": 300,
+        "하급 마시멜로 선택 상자": 600,
+        "중급 마시멜로 선택 상자": 120,
+        "상급 마시멜로 선택 상자": 80
       }
     },
     {
@@ -337,8 +529,8 @@
       "name": "순수 사도 모집권 패키지",
       "price": 19800,
       "contents": {
-        "t_apostle": 20,
-        "attr_순수": 1
+        "사도 모집 티켓": 20,
+        "★3 순수 사도 모집권": 1
       }
     },
     {
@@ -346,8 +538,8 @@
       "name": "냉정 사도 모집권 패키지",
       "price": 19800,
       "contents": {
-        "t_apostle": 20,
-        "attr_냉정": 1
+        "사도 모집 티켓": 20,
+        "★3 냉정 사도 모집권": 1
       }
     },
     {
@@ -355,8 +547,8 @@
       "name": "광기 사도 모집권 패키지",
       "price": 19800,
       "contents": {
-        "t_apostle": 20,
-        "attr_광기": 1
+        "사도 모집 티켓": 20,
+        "★3 광기 사도 모집권": 1
       }
     },
     {
@@ -364,8 +556,8 @@
       "name": "활발 사도 모집권 패키지",
       "price": 19800,
       "contents": {
-        "t_apostle": 20,
-        "attr_활발": 1
+        "사도 모집 티켓": 20,
+        "★3 활발 사도 모집권": 1
       }
     },
     {
@@ -373,8 +565,8 @@
       "name": "우울 사도 모집권 패키지",
       "price": 19800,
       "contents": {
-        "t_apostle": 20,
-        "attr_우울": 1
+        "사도 모집 티켓": 20,
+        "★3 우울 사도 모집권": 1
       }
     },
     {
@@ -382,10 +574,10 @@
       "name": "귀중한 성장 재료 패키지",
       "price": 49500,
       "contents": {
-        "p_elif": 1500,
-        "crayon_epic": 50,
-        "manual": 5000,
-        "light_box": 5000
+        "엘리프(유료)": 1500,
+        "상급 크레파스": 50,
+        "장비의정석": 5000,
+        "무작위 빛 상자": 5000
       }
     }
   ],
@@ -396,11 +588,11 @@
       "name": "사도 장비 세트 패키지",
       "price": 9900,
       "contents": {
-        "p_elif": 300,
-        "apostle_select_rank_3_equipment_set": 1,
-        "apostle_select_rank_4_equipment_set": 1,
-        "apostle_select_rank_5_equipment_set": 1,
-        "apostle_select_rank_6_equipment_set": 1
+        "엘리프(유료)": 300,
+        "사도 선택형 3랭크 장비 세트": 1,
+        "사도 선택형 4랭크 장비 세트": 1,
+        "사도 선택형 5랭크 장비 세트": 1,
+        "사도 선택형 6랭크 장비 세트": 1
       }
     },
     {
@@ -408,11 +600,11 @@
       "name": "사도 성장 세트 패키지",
       "price": 29500,
       "contents": {
-        "p_elif": 900,
-        "apostle_select_rank_7_equipment_set": 1,
-        "apostle_select_rank_8_equipment_set": 1,
-        "apostle_select_rank_9_equipment_set": 1,
-        "apostle_select_rank_10_equipment_set": 1
+        "엘리프(유료)": 900,
+        "사도 선택형 7랭크 장비 세트": 1,
+        "사도 선택형 8랭크 장비 세트": 1,
+        "사도 선택형 9랭크 장비 세트": 1,
+        "사도 선택형 10랭크 장비 세트": 1
       }
     },
     {
@@ -420,11 +612,11 @@
       "name": "카드 가득가득 뽑기 패키지",
       "price": 29500,
       "contents": {
-        "p_elif": 900,
-        "t_card": 30,
-        "s_spell_box": 1,
-        "s_arti_box": 1,
-        "t_special_card": 1
+        "엘리프(유료)": 900,
+        "카드 뽑기 티켓": 30,
+        "희귀 스펠 카드 선택 상자": 1,
+        "희귀 아티팩트 선택 상자": 1,
+        "전설 카드 뽑기권": 1
       }
     },
     {
@@ -432,9 +624,9 @@
       "name": "크레파스 보드 색칠 패키지",
       "price": 29500,
       "contents": {
-        "p_elif": 900,
-        "gold": 2000,
-        "crayon_ultra": 4
+        "엘리프(유료)": 900,
+        "골드 (1k)": 2000,
+        "최상급 크레파스": 4
       }
     },
     {
@@ -442,9 +634,9 @@
       "name": "교단 증명서 한가득 패키지",
       "price": 49500,
       "contents": {
-        "p_elif": 1500,
-        "f_elif": 1500,
-        "cert": 500
+        "엘리프(유료)": 1500,
+        "엘리프(무료)": 1500,
+        "교단 증명서": 500
       }
     },
     {
@@ -452,9 +644,9 @@
       "name": "사도 왕창왕창 모집 패키지",
       "price": 99000,
       "contents": {
-        "t_apostle": 100,
-        "kcandy": 1000,
-        "scandy": 1000
+        "사도 모집 티켓": 100,
+        "왕사탕": 1000,
+        "별사탕": 1000
       }
     }
   ]
