@@ -1,3 +1,6 @@
 [submodule "Trickcal-Icons"]
 	path = Trickcal-Icons
 	url = https://github.com/mediate1082/Trickcal-Icons.git
+[submodule "foods"]
+	path = foods
+	url = https://github.com/lsbim/foods
