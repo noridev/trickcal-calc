@@ -55,7 +55,7 @@
     { "id": "무작위 빛 상자", "name": "무작위 빛 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_무작위 빛 상자.webp", "count": "" },
     { "id": "방 꾸미기 재료 상자", "name": "방 꾸미기 재료 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교주의 방 꾸미기 재료 상자.webp", "count": "" },
     { "id": "교단 성장 재료 상자", "name": "교단 성장 재료 상자", "val": 0, "icon": "Trickcal-Icons/inventory/상자_교단 성장 재료 상자.webp", "count": "" },
-    { "id": "보유 전설 카드 선택 상자", "name": "보유 전설 카드 선택 상자", "val": 10500, "icon": "", "count": "" },
+    { "id": "보유 전설 카드 선택 상자", "name": "보유 전설 카드 선택 상자", "val": 10500, "icon": "Trickcal-Icons/inventory/상자_보유 전설 카드 선택 상자.webp", "count": "" },
     { "id": "희귀 아티팩트 선택 상자", "name": "희귀 아티팩트 선택 상자", "val": 4500, "icon": "Trickcal-Icons/inventory/상자_희귀 아티팩트 선택 상자.webp", "count": "" },
     { "id": "희귀 스펠 카드 선택 상자", "name": "희귀 스펠 카드 선택 상자", "val": 4500, "icon": "Trickcal-Icons/inventory/상자_희귀 스펠선택 상자.webp", "count": "" },
     { "id": "3201131", "name": "전설 등급 아티팩트 선택 상자 Vol.3", "val": 6000, "count": "" },
