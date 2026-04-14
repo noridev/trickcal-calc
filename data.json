@@ -1,8 +1,32 @@
 {
   "items": [
-    { "id": "900000", "name": "엘리프(유료)", "val": 2.7, "count": "" },
+    { "id": "900000", "name": "엘리프(유료)", "val": 2.7, "count": "",
+      "preset": {
+        "type": "multiple",
+        "aggregation": "min",
+        "title": "엘리프(유료) 주요 소모처",
+        "options": [
+          { "label": "1일 1회 모집", "value": 3.3 },
+          { "label": "사도 & 왕사탕 패키지", "value": 3.0 },
+          { "label": "카드 & 별사탕 패키지", "value": 4.8 },
+          { "label": "새콤 교단 증명서 패키지", "value": 2.8 },
+          { "label": "엘리프 교체 패키지", "value": 2.7 }
+        ]
+      }
+    },
     { "id": "1000000", "name": "엘리프(무료)", "val": 1, "count": "" },
-    { "id": "1100000", "name": "왕사탕", "val": 0.5, "count": "" },
+    { "id": "1100000", "name": "왕사탕", "val": 0.5, "count": "",
+      "preset": {
+        "type": "single",
+        "title": "왕사탕 충전 기준",
+        "options": [
+          { "label": "~3회 충전", "value": 0.3 },
+          { "label": "~5회 충전", "value": 0.5 },
+          { "label": "~8회 충전", "value": 0.7 },
+          { "label": "~10회 충전", "value": 1.0 }
+        ]
+      }
+    },
     { "id": "3600000", "name": "별사탕", "val": 2, "count": "" },
     { "id": "모카롱 (10k)", "name": "모카롱 (10k)", "val": 0, "icon": "Trickcal-Icons/currency/재화_모카롱.webp", "count": "" },
     { "id": "슈카롱 (1k)", "name": "슈카롱 (1k)", "val": 0, "icon": "Trickcal-Icons/currency/재화_슈카롱.webp", "count": "" },
