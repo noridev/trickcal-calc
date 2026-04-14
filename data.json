@@ -5,6 +5,7 @@
         "type": "multiple",
         "aggregation": "min",
         "title": "엘리프(유료) 주요 소모처",
+        "description": "선택한 항목 중 가장 낮은 효율이 기준값으로 적용됩니다.",
         "options": [
           { "label": "1일 1회 모집", "value": 3.3 },
           { "label": "사도 & 왕사탕 패키지", "value": 3.0 },
@@ -19,6 +20,7 @@
       "preset": {
         "type": "single",
         "title": "왕사탕 충전 기준",
+        "description": "일일 평균 왕사탕 충전 횟수를 선택해 주세요.",
         "options": [
           { "label": "~3회 충전", "value": 0.3 },
           { "label": "~5회 충전", "value": 0.5 },
